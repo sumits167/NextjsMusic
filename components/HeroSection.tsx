@@ -18,10 +18,7 @@ function HeroSection() {
       />
     <h1 className="mt-20 md:mt-0 text-4xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400">Master the art of Music</h1>
     <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">
-        kshkdjkl ewiopdfiop ifcodipo fcipdop kehfkd
-        jikedh ieoirow dui xzoisd eriwoirdewpo feufiref 
-        ufiruifu reior ir0feiofii ireoiorpo fy3928- 9-9 fjoie
-        e u9ir8u d9ufkljc vir09if04 ofcifoepi0 if04of-04o
+       Dive into our comprehensive music courses and transform your musical journey today. Whether you're a beginner or looking to refine your skills, join us to unlock your true potential
     </p>
     <div className='mt-4'> 
         {/* <Link href={"/courses"}> */}
